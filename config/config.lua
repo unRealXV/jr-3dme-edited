@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Language = "German"                             -- English, Dutch, German
+Config.Language = "English"                             -- English, Dutch, German
 
 Config.MaxLength = 100                                  -- max length of the message
 Config.Notify = "vorp"                                  -- you can add your own notify system in client.lua default is vorp, chat or none
