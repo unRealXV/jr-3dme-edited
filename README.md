@@ -34,6 +34,9 @@ This can be used in roleplay.
 # EDIT
 
 > Edited by xv-scripts
+> 
 > Added possibility to add more commands and easily change colors, delay etc.
-> some security fixes 
+> 
+> Some security issues
+> 
 > feel free to edit whatever you like
