@@ -25,6 +25,8 @@ This can be used in roleplay.
 >
 > If you use [jr-basics](https://github.com/JustRoys/jr-basics) you don't need to have this script. It's already in there
 
+> THIS DOES NOT INCLUDE THE EDITED FILE
+
 # Screenshot(s) :
 ![image](https://github.com/user-attachments/assets/ca643004-a3be-46d0-97e5-01dfae538cad)
 
